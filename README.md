@@ -1,6 +1,9 @@
 # Calculator
 
 Uma calculadora simples feita em Java com Swing, inspirada no visual das calculadoras modernas de smartphones.
+![image](https://github.com/user-attachments/assets/8a41ee1e-0088-4588-bb30-26f14ed4335a)
+
+
 
 ## Funcionalidades
 
@@ -22,6 +25,11 @@ Uma calculadora simples feita em Java com Swing, inspirada no visual das calcula
    ```
 
 ## Utilização
+
+https://github.com/user-attachments/assets/a1019898-71f8-4a9e-ad6f-422d605607d8
+
+
+
 
 ## **Estrutura do Projeto:**
 
